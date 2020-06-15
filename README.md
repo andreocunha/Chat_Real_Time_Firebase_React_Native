@@ -33,7 +33,19 @@ $ yarn start
 ```
 Depois de baixar os arquivos é necessário mudar os campos que estão vazios no arquivo <b>Fire.js</b> para os arquivos do seu firebase.
 É só criar uma conta google, logar no firebase e criar novo projeto. Depois entre no projeto, acesse settings e navegue até Firebase SDK snippet 
-para encontrar os seus dados. Copie e cole no Fire.js. Se ao mandar mensagem no chat der permissão negada, 
+para encontrar os seus dados. Copie e cole no Fire.js.<br> 
+Se ao mandar mensagem no chat der permissão negada, entre no seu projeto do firebase clique em "Database", depois "Criar banco de dados" e "Iniciar no modo teste". Por fim confira se ao clicar em "Regras" está assim conforme abaixo. Depois é só testar o chat que funcionará normalmente!
+
+```
+{
+  "rules": {
+    ".read": true,
+    ".write": true
+  }
+}
+```
+
+##
 
 Feito com ♥  por André Oliveira Cunha :wave:  [Linkedin](https://www.linkedin.com/in/andr%C3%A9-oliveira-cunha-b26b3a156/)
 
