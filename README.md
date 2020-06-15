@@ -31,7 +31,7 @@ $ yarn start
 
 # O Expo vai abrir, você pode escanear o QR Code que aparecerá no terminal ou na página web usando o app da Expo no seu celular.
 ```
-Depois de baixar os arquivos é necessário mudar os campos que estão vazios no arquivo <b>Fire.js</b> para os arquivos do seu firebase.
+Depois de baixar os arquivos é necessário mudar os campos que estão vazios no arquivo <b>Fire.js</b> para os seus dados do firebase.
 É só criar uma conta google, logar no firebase e criar novo projeto. Depois entre no projeto, acesse settings e navegue até Firebase SDK snippet 
 para encontrar os seus dados. Copie e cole no Fire.js.<br> 
 Se ao mandar mensagem no chat der permissão negada, entre no seu projeto do firebase clique em "Database", depois "Criar banco de dados" e "Iniciar no modo teste". Por fim confira se ao clicar em "Regras" está assim conforme abaixo. Depois é só testar o chat que funcionará normalmente!
