@@ -5,7 +5,7 @@
 ## ⚙️  Funcionamento
 
 A aplicação foi feita usando React Native e firebase. Na página de login você escreve seu nome 
-e entrar que será redirecionado para a página de chat. Depois é só começar a digitar que quem 
+clica em entrar que será redirecionado para a página de chat. Depois é só começar a digitar que quem 
 estiver no chat receberá suas mensagens em tempo real.
 
 <h1 align="center">
