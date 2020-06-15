@@ -45,13 +45,13 @@ Se ao mandar mensagem no chat der permissão negada, entre no seu projeto do fir
 }
 ```
 
-##
-
-Feito com ♥  por André Oliveira Cunha :wave:  [Linkedin](https://www.linkedin.com/in/andr%C3%A9-oliveira-cunha-b26b3a156/)
-
 ## Licença
 
 Dê uma olhada na licença [license file](./LICENSE) para detalhes
+
+##
+
+Feito com ♥  por André Oliveira Cunha :wave:  [Linkedin](https://www.linkedin.com/in/andr%C3%A9-oliveira-cunha-b26b3a156/)
 
 [expo]: https://expo.io/
 [yarn]: https://yarnpkg.com/
